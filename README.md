@@ -19,6 +19,7 @@ Integrated analysis of DNA methylation and gene expression can reveal specific e
  2. DB dump
  <a href="http://www.appex.kr/web_download/PSJ/201119_MENT/MENT_db_dump.tar.gz" target="_blank">Download</a>
 
+ ※ If you get in trouble to download, mouse 'right click' and 'save as'
 
 # Citation
 Baek, Su-Jin, et al. "MENT: methylation and expression database of normal and tumor tissues." Gene 518.1 (2013): 194-200.
