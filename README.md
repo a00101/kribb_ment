@@ -14,10 +14,10 @@ Integrated analysis of DNA methylation and gene expression can reveal specific e
 
 # Data Accession
  1. Whole data
- <a href = "http://www.appex.kr/web_download/PSJ/201119_MENT/MENT_data.tar.gz" target="_blank" > Download </a>
+ <a href="http://www.appex.kr/web_download/PSJ/201119_MENT/MENT_data.tar.gz" target="_blank">Download</a>
  
  2. DB dump
- <a href = "http://www.appex.kr/web_download/PSJ/201119_MENT/MENT_db_dump.tar.gz" target="_blank" > Download </a>
+ <a href="http://www.appex.kr/web_download/PSJ/201119_MENT/MENT_db_dump.tar.gz" target="_blank">Download</a>
 
 
 # Citation
